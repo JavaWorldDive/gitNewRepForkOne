@@ -1,5 +1,12 @@
 public class gitF1 {
-    syso("text1");
-       syso("text2");
+ syso("text13");
+   syso("text13");
+  
+       syso("text4");
+
 
 }
+
+
+
+
